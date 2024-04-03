@@ -10,4 +10,4 @@
 Priyasrinathjuvva/Priyasrinathjuvva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-write code for creating a chat bot for a hospital using any ai chatbot tool
+
